@@ -82,7 +82,7 @@ A high-level view providing executive insights into client engagement, overall f
 * **Market Strategy:** Analyzing which type of banks (e.g., private) have more clients to help other banks build strategies to increase their client base.
 * **Geographical Risk:** Providing insights about which nationality has the highest bank loans to assess foreign market exposure.
 
-## How to Use
+## How to Use.
 
 1.  **Download:** Ensure you have **Power BI Desktop** installed.
 2.  **Clone:** Clone this repository to your local machine.
