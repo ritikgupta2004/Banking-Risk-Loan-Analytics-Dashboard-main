@@ -90,7 +90,7 @@ A high-level view providing executive insights into client engagement, overall f
 4.  **Explore:** Interact with the slicers and filters to generate customized risk and performance reports.
 
 ---
-*Created by Utkarsh Jha*
+*Created by Ritik Gupta*
 
 ***
 
